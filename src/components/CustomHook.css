@@ -1,0 +1,25 @@
+
+  button {
+    /* Style the button */
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    /* Add some visual feedback on hover */
+    background-color: #3e8e41;
+  }
+  
+  h1 {
+    /* Style the hidden text */
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    transition: opacity 0.3s; /* Add a transition effect to the opacity */
+  }
+  
